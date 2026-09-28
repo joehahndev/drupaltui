@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "status": "403",
+      "title": "Forbidden",
+      "detail": "The current user is not allowed to GET the selected resource."
+    }
+  ]
+}

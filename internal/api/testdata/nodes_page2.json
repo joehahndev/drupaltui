@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "type": "node--article",
+      "id": "aaaaaaaa-0003-0000-0000-000000000000",
+      "attributes": {
+        "title": "Third article",
+        "status": true,
+        "changed": "2026-07-18T09:15:00+00:00"
+      }
+    }
+  ],
+  "links": {
+    "self": {"href": "__BASE__/jsonapi/node/article?page%5Blimit%5D=2&page%5Boffset%5D=2"}
+  }
+}

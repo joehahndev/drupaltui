@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "type": "node--article",
+      "id": "aaaaaaaa-0001-0000-0000-000000000000",
+      "attributes": {
+        "title": "First article",
+        "status": true,
+        "changed": "2026-07-20T10:30:00+00:00"
+      }
+    },
+    {
+      "type": "node--article",
+      "id": "aaaaaaaa-0002-0000-0000-000000000000",
+      "attributes": {
+        "title": "Second article",
+        "status": false,
+        "changed": "2026-07-19T08:00:00+00:00"
+      }
+    }
+  ],
+  "links": {
+    "self": {"href": "__BASE__/jsonapi/node/article?page%5Blimit%5D=2"},
+    "next": {"href": "__BASE__/jsonapi/node/article?page%5Blimit%5D=2&page%5Boffset%5D=2"}
+  }
+}

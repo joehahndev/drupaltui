@@ -1,0 +1,11 @@
+{
+  "data": {
+    "type": "node--page",
+    "id": "bbbbbbbb-0001-0000-0000-000000000000",
+    "attributes": {
+      "title": "A page without a body field",
+      "status": false,
+      "changed": "2026-07-15T12:00:00+00:00"
+    }
+  }
+}

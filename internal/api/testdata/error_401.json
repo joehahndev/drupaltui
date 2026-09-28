@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "status": "401",
+      "title": "Unauthorized",
+      "detail": "The provided access token is expired or has been revoked."
+    }
+  ]
+}

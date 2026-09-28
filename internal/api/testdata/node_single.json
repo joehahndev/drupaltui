@@ -1,0 +1,17 @@
+{
+  "data": {
+    "type": "node--article",
+    "id": "aaaaaaaa-0001-0000-0000-000000000000",
+    "attributes": {
+      "title": "First article",
+      "status": true,
+      "changed": "2026-07-20T10:30:00+00:00",
+      "body": {
+        "value": "# Hello\n\nSome **markdown** text.",
+        "format": "markdown_easy",
+        "processed": "<h1>Hello</h1><p>Some <strong>markdown</strong> text.</p>",
+        "summary": ""
+      }
+    }
+  }
+}

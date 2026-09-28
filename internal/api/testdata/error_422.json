@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "status": "422",
+      "title": "Unprocessable Entity",
+      "detail": "title: This value should not be null."
+    }
+  ]
+}

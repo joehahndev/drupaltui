@@ -1,0 +1,11 @@
+{
+  "jsonapi": {"version": "1.0"},
+  "data": [],
+  "links": {
+    "self": {"href": "__BASE__/jsonapi"},
+    "node--article": {"href": "__BASE__/jsonapi/node/article"},
+    "node--page": {"href": "__BASE__/jsonapi/node/page"},
+    "user--user": {"href": "__BASE__/jsonapi/user/user"},
+    "filter_format--filter_format": {"href": "__BASE__/jsonapi/filter_format/filter_format"}
+  }
+}
